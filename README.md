@@ -15,46 +15,6 @@ En este proyecto se realiza:
 - **Casos de uso:** Aplicación en diferentes tipos de imágenes para evaluar el desempeño.
 
 ---
-## Requisitos
-
-Antes de ejecutar el proyecto, asegúrate de tener instaladas las siguientes dependencias:
-
-- Python 3.8 o superior
-- Librerías:
-  - OpenCV
-  - NumPy
-  - Matplotlib
- 
-Esto con el objetivo de realizar comparaciones con el método realizado manualmente.
-
-Para instalarlas, utilizar el archivo `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Uso
-
-README.md
-markdown
-Copiar código
-# Aplicación de Filtro Bilateral a Imágenes
-
-Este repositorio contiene el desarrollo de un trabajo universitario sobre la **aplicación de un filtro bilateral a imágenes**. El proyecto forma parte de la asignatura de **Sistemas Lineales y Señales** y tiene como objetivo explorar técnicas de procesamiento de imágenes mediante filtros avanzados.
-
----
-
-## Descripción
-
-El **filtro bilateral** es una técnica de procesamiento de imágenes no lineal que permite suavizar una imagen mientras preserva los bordes. Esto se logra al considerar tanto la proximidad espacial como la diferencia de intensidad al calcular el nuevo valor de cada píxel.
-
-En este proyecto se realiza:
-
-- **Implementación del filtro bilateral:** Aplicación del filtro usando algoritmos en Python.
-- **Análisis de resultados:** Comparación entre la imagen original y la imagen filtrada.
-- **Casos de uso:** Aplicación en diferentes tipos de imágenes para evaluar el desempeño.
-
----
 
 ## Estructura del Proyecto
 
