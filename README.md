@@ -31,7 +31,7 @@ En este proyecto se realiza:
 
 📂 filtro-bilateral  
 ├── 📁 imagenes prueba #imágenes de prueba  
-├── 📄filtro_bilateral.py # Implementación del filtro   
+├── 📄main.py # Implementación del filtro   
 ├── 📃README.md # Este archivo  
 └── 📄requirements.txt # Dependencias del proyecto
 
@@ -62,7 +62,7 @@ Estas serán necesarias para realizar comparacion entre el filtro manual y el de
      
   3. Ejecutar el script principal:
      ```bash
-     python src/filtro_bilateral.py
+     python main.py
   4. Seleccionar una Imagen para aplicar el filtro (Se puede usar alguna de la carpeta `imagenes prueba`)
   5. Esperar Resultados.
   6. El resultado se vizualizara mediante un plot, en consola se mostraran los tiempos de ejecución.
