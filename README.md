@@ -66,4 +66,10 @@ Estas serán necesarias para realizar comparacion entre el filtro manual y el de
   4. Seleccionar una Imagen para aplicar el filtro (Se puede usar alguna de la carpeta `imagenes prueba`)
   5. Esperar Resultados.
   6. El resultado se vizualizara mediante un plot, en consola se mostraran los tiempos de ejecución.
+     
+## Recomendaciones
+- Usar imagenes pequeñas para prueba debido a que el filtro bilateral manual es considerablemente tardado en aplicar.
+- El programa convertirá inmediatamente toda imagen a su formato blanco y negro.
+
+
 
