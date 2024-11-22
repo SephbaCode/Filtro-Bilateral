@@ -89,7 +89,7 @@ option = int(input())
 if option == 1:
     # Parámetros del filtro bilateral
     diameter = 5  # Tamaño de la ventana
-    sigma_spatial = 10  # Sigma para la distancia espacial
+    sigma_spatial = 5  # Sigma para la distancia espacial
     sigma_intensity = 25  # Sigma para la diferencia de intensidad
 else:
     try:
